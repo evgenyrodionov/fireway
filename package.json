@@ -30,7 +30,7 @@
     }
   },
   "dependencies": {
-    "@google-cloud/firestore": "^2.2.4",
+    "@google-cloud/firestore": "^3.1.0",
     "firebase-admin": "^8.3.0",
     "md5": "^2.2.1",
     "sade": "^1.6.1",
